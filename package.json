@@ -1,0 +1,28 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "A simple and lightweight messaging script to make digital life easy and more comfortable.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyond88/chatter.git"
+  },
+  "keywords": [
+    "chat",
+    "message",
+    "script",
+    "live",
+    "chat",
+    "chat",
+    "service"
+  ],
+  "author": "Mohiuddin Abdul Kader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beyond88/chatter/issues"
+  },
+  "homepage": "https://github.com/beyond88/chatter#readme"
+}
